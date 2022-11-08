@@ -6,14 +6,21 @@
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ts,python,c,cpp,bash,md,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,md" />
   </a>
 </p>
 
 <h3 align="center">Front end</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,html" />
+  </a>
+</p>
+
+<h3 align="center">CSS</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,tailwind,bootstrap" />
   </a>
 </p>
 
@@ -34,7 +41,7 @@
 <h3 align="center">Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,cloudflare,github,git,linux,stackoverflow,vercel,powershell" />
+    <img src="https://skillicons.dev/icons?i=vscode,cloudflare,github,git,linux,stackoverflow,vercel,powershell,bash" />
   </a>
 </p>
 
