@@ -6,7 +6,7 @@
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,md" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,python,c,cpp,md" />
   </a>
 </p>
 
