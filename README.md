@@ -1,8 +1,6 @@
 <h1 align="center">&lt;Hello World! \&gt;</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fakepng&label=Profile%20views&color=0e75b6&style=flat" alt="fakepng" /> </p>
 
-<h3>I'm a high school student with a passion for coding.</h3>
-
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
