@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fakepng&label=Profile%20views&color=0e75b6&style=flat" alt="fakepng" /> </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Fakepng"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Fakepng" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/Fakepng"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Fakepng" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fakepng&show_icons=true&locale=en&layout=compact" alt="fakepng" /></p>
 
